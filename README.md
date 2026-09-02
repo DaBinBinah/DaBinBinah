@@ -74,17 +74,6 @@ I have a solid background in enterprise IT, ERP systems, and business digital tr
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="100%" src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="GitHub profile contribution details" />
-
-<img height="175" src="./profile-summary-card-output/transparent/3-stats.svg" alt="GitHub statistics" />
-<img height="175" src="https://streak-stats.demolab.com?user=DaBinBinah&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-<img height="175" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Most used public repository languages" />
-
-</div>
 
 ## 🌈 3D Contribution Skyline
 
