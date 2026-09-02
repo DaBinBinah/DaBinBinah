@@ -61,6 +61,7 @@ I have a solid background in enterprise IT, ERP systems, and business digital tr
 | :--- | :--- | :---: | :--- |
 | 📈 **[盯价 DingJia](https://github.com/DaBinBinah/dingjia)** | **个人投资监控工具**<br/>`“你定价格，我来盯。”` | JavaScript · Web | 自己长期使用并持续维护的投资监控工具。支持 A 股、美股、ETF、持仓管理、目标价格、价格提醒、盈亏跟踪、分红记录与投资复盘。 |
 | 🧩 **同行有约** | **微信小程序 / 社区产品**<br/>`真实场景持续迭代` | 微信小程序 · CloudBase | 面向真实用户场景的私域社区与协作小程序。包含内容发布、日历日程、通知提醒、IM/群聊沟通、组织管理与权限后台，全程结合 AI 辅助高效开发与持续迭代。 |
+| 🎵 **答案音乐** | **基督教音乐 / 灵修产品**<br/>`Music · Faith · Sharing` | Web · 音频 | 面向基督徒的音乐与灵修分享项目，提供诗歌、敬拜音乐及相关内容，让信仰、音乐与日常生活产生连接。 |
 | 🏢 **企业数字化 / ERP** | **业务系统与数字化实践**<br/>`ERP · Digital Transformation` | 业务流 · 流程梳理 · 数据库 | 长期参与企业信息化与 ERP 系统建设，关注进销存、业务流程重构、权限管控与数据治理，推动系统在企业实际业务场景中稳定落地。 |
 | 🤖 **AI + 编程实验** | **AI 辅助开发新范式**<br/>`AI-Native Development` | Claude · Codex · DeepSeek | 持续探索 AI 辅助编程，把大模型当作开发伙伴，贯穿需求构思、代码实现、测试调优到自动化交付，让 AI 真正赋能实际产品生产。 |
 
