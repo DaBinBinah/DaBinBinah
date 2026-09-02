@@ -2,7 +2,6 @@
 
 # 👋 Hi there, I'm DaBin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=52&lines=%F0%9F%92%BB+Independent+Developer;%F0%9F%A4%96+AI+%2B+Coding+%C2%B7+Building+Real+Products;%F0%9F%A7%A9+AI+Agent+%26+Automation+Tools;%F0%9F%8C%90+Web+%26+WeChat+Mini+Program;%F0%9F%8F%A2+IT+%26+Digital+Transformation;%F0%9F%93%88+DingJia+%C2%B7+Personal+Investment+Tools)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="./assets/divider.svg" width="100%" alt="Color divider" />
 
