@@ -55,13 +55,6 @@ I have a solid background in enterprise IT, ERP systems, and business digital tr
 
 </div>
 
-## 🧭 GitHub Radar
-
-<div align="center">
-
-<img src="https://github-immortality.vercel.app/api?username=DaBinBinah" width="100%" alt="GitHub activity radar for DaBinBinah" />
-
-</div>
 
 ## 🗺️ Project Map
 
