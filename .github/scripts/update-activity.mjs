@@ -88,10 +88,10 @@ async function main() {
 
   if (activityLines.length === 0) {
     activityLines = [
-      `- 🚀 Pushed latest updates to [DaBinBinah/dingjia](https://github.com/DaBinBinah/dingjia): \`Optimized market monitoring tool\``,
-      `- 🧠 Refined AI logic pipelines and Python workflows in [DaBinBinah/jsjpc2](https://github.com/DaBinBinah/jsjpc2)`,
-      `- 🛠️ Explored cross-platform AI desktop integration in [DaBinBinah/BingGPT](https://github.com/DaBinBinah/BingGPT)`,
-      `- 🌟 Continuous exploration across LLM agents, web scrapers, and quant monitoring`
+      `- 🚀 持续迭代 [DaBinBinah/dingjia](https://github.com/DaBinBinah/dingjia): 优化投资监控与多市场行情追踪`,
+      `- 🧩 推进「同行有约」微信小程序业务模块与 CloudBase 后台架构`,
+      `- 🛠️ 探索 Claude / Codex / DeepSeek 等 AI 编程工具与自动化脚本实践`,
+      `- 🏢 持续沉淀企业数字化、ERP 业务流程梳理与系统落地经验`
     ]
   }
 

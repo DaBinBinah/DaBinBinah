@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm DaBin
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=52&lines=%F0%9F%92%BB+AI+Engineer+%C2%B7+Demystifying+Complex+Logic;%F0%9F%A7%A0+Translating+AI+Complexity+into+Simplicity;%F0%9F%93%88+Building+Practical+AI+%26+Quant+Tools;%F0%9F%9A%80+Full-Stack+Ideas%2C+Reliably+Shipped)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=52&lines=%F0%9F%92%BB+Independent+Developer;%F0%9F%A4%96+AI+%2B+Coding+%C2%B7+Building+Real+Products;%F0%9F%A7%A9+AI+Agent+%26+Automation+Tools;%F0%9F%8C%90+Web+%26+WeChat+Mini+Program;%F0%9F%8F%A2+IT+%26+Digital+Transformation;%F0%9F%93%88+DingJia+%C2%B7+Personal+Investment+Tools)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="./assets/divider.svg" width="100%" alt="Color divider" />
 
@@ -14,21 +14,30 @@
 
 ## 👨‍💻 关于我 / About Me
 
-我是一名专注于 **AI 智能体落地与自动化工具开发** 的攻城狮。
+我是一名长期从事 **IT / 企业信息化** 工作的开发者，也是一名正在不断探索 **AI 辅助开发与产品落地** 的独立开发者。
 
-我热衷于 **把复杂的 AI 算法与工程逻辑翻译成大白话**，并将真实业务与生活中的痛点，转化为高可用、易落地的工具产品与量化监控系统。
+过去主要关注 **企业信息化、ERP、数字化管理和业务系统建设**；现在越来越喜欢直接使用 **AI + 编程**，把生活和工作中的真实需求快速做成可以使用的小产品与实用工具。
 
-I am an AI Engineer passionate about **LLM agents, intelligent workflows, and practical tools**. I specialize in breaking down complex AI logic into intuitive, high-impact products that solve real problems.
+> **想到一个问题，就试着把它做成一个工具。**  
+> *Turn real-world problems into practical products with AI and code.*
 
-- 🔭 **当前聚焦**：AI Agent 应用、智能工作流编排、A 股投资监控工具
-- 🌱 **技术探索**：Python、JavaScript / TypeScript、大模型提示工程与全栈交付
-- 🧭 **工程理念**：以第一性原理剖析问题，用大白话讲透复杂逻辑
-- 🛠️ **交付偏好**：从真实痛点出发，快速原型、持续迭代、真实验证
+I have a solid background in enterprise IT, ERP systems, and business digital transformation. As an independent developer and AI builder, I love using AI-assisted coding to rapidly turn everyday problems into practical, reliable, and continuously iterating software.
+
+---
+
+### 🎯 当前关注 / Current Focus
+
+- 🤖 **AI + 软件开发**：把 AI 当作深度协作的开发伙伴，探索更高效的开发与交付范式
+- 🧩 **AI Agent / LLM Applications**：持续探索智能体编排、提示工程与自动化工作流
+- 🌐 **Web & Mini Program**：全栈 Web 应用与微信小程序开发，覆盖真实业务与用户场景
+- ⚙️ **Automation & Productivity**：解决实际痛点的数据处理、自动化脚本与提效工具
+- 🏢 **Enterprise Digital Transformation**：ERP 建设、业务流程梳理与企业数字化落地
+- 📈 **Personal Investment Tools**：行情监控、持仓跟踪与个人量化辅助工具
 
 </td>
 <td width="45%" valign="middle">
 
-<img src="./assets/terminal-hero.svg" width="100%" alt="Animated terminal showing DaBin's engineering interests" />
+<img src="./assets/terminal-hero.svg" width="100%" alt="Animated terminal showing DaBin's focus areas" />
 
 </td>
 </tr>
@@ -56,20 +65,20 @@ I am an AI Engineer passionate about **LLM agents, intelligent workflows, and pr
 
 ## 🗺️ Project Map
 
-| 方向 / 领域 | 核心项目 | 数据 | 亮点说明 |
+| 方向 / 项目 | 核心定位 | 技术与生态 | 亮点与说明 |
 | :--- | :--- | :---: | :--- |
-| 📈 **Quant & FinTech** | [dingjia](https://github.com/DaBinBinah/dingjia) | ![Stars](https://img.shields.io/github/stars/DaBinBinah/dingjia?style=flat-square&label=) | 面向中国 A 股投资者的个人投资与行情监控工具，辅助精准决策 |
-| 🕷️ **Data & ETL** | [jsjpc2](https://github.com/DaBinBinah/jsjpc2) | ![Stars](https://img.shields.io/github/stars/DaBinBinah/jsjpc2?style=flat-square&label=) | 今世家自动化数据采集与清洗流水线，支持多源数据结构化解析 |
-| 🤖 **AI Desktop App** | [BingGPT](https://github.com/DaBinBinah/BingGPT) | ![Stars](https://img.shields.io/github/stars/DaBinBinah/BingGPT?style=flat-square&label=) | 基于跨平台桌面端集成的智能 AI 对话与交互应用 |
-| ⚡ **Productivity** | [FQ](https://github.com/DaBinBinah/FQ) | ![Stars](https://img.shields.io/github/stars/DaBinBinah/FQ?style=flat-square&label=) | 开发者常用网络与环境配置工具脚本集 |
+| 📈 **[盯价 DingJia](https://github.com/DaBinBinah/dingjia)** | **个人投资监控工具**<br/>`“你定价格，我来盯。”` | JavaScript · Web | 自己长期使用并持续维护的投资监控工具。支持 A 股、美股、ETF、持仓管理、目标价格、价格提醒、盈亏跟踪、分红记录与投资复盘。 |
+| 🧩 **同行有约** | **微信小程序 / 社区产品**<br/>`真实场景持续迭代` | 微信小程序 · CloudBase | 面向真实用户场景的私域社区与协作小程序。包含内容发布、日历日程、通知提醒、IM/群聊沟通、组织管理与权限后台，全程结合 AI 辅助高效开发与持续迭代。 |
+| 🏢 **企业数字化 / ERP** | **业务系统与数字化实践**<br/>`ERP · Digital Transformation` | 业务流 · 流程梳理 · 数据库 | 长期参与企业信息化与 ERP 系统建设，关注进销存、业务流程重构、权限管控与数据治理，推动系统在企业实际业务场景中稳定落地。 |
+| 🤖 **AI + 编程实验** | **AI 辅助开发新范式**<br/>`AI-Native Development` | Claude · Codex · DeepSeek | 持续探索 AI 辅助编程，把大模型当作开发伙伴，贯穿需求构思、代码实现、测试调优到自动化交付，让 AI 真正赋能实际产品生产。 |
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,nodejs,express,fastapi,git,githubactions,docker,linux,vscode,md&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,nodejs,git,github,docker,linux,mysql,postman,vscode,md&perline=14)](https://skillicons.dev)
 
-`AI Agents` · `LLM Application` · `Quant Monitoring` · `Data Engineering` · `Full-stack Prototyping`
+`AI Coding` · `LLM Applications` · `AI Agent` · `Automation` · `Web & Mini Program` · `CloudBase` · `ERP & Digital Transformation`
 
 </div>
 
@@ -98,17 +107,17 @@ I am an AI Engineer passionate about **LLM agents, intelligent workflows, and pr
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- ⚡ Updated activity on [DaBinBinah/dingjia](https://github.com/DaBinBinah/dingjia)
-- ⭐ Starred repository [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-- ⭐ Starred repository [DaBinBinah/FQ](https://github.com/DaBinBinah/FQ)
-- ⭐ Starred repository [DaBinBinah/BingGPT](https://github.com/DaBinBinah/BingGPT)
-- ⭐ Starred repository [DaBinBinah/dingjia](https://github.com/DaBinBinah/dingjia)
+- 🚀 持续迭代 [DaBinBinah/dingjia](https://github.com/DaBinBinah/dingjia): 优化投资监控与多市场行情追踪
+- 🧩 推进「同行有约」微信小程序业务模块与 CloudBase 后台架构
+- 🛠️ 探索 Claude / Codex / DeepSeek 等 AI 编程工具与自动化脚本实践
+- 🏢 持续沉淀企业数字化、ERP 业务流程梳理与系统落地经验
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
 
 <img src="./assets/divider.svg" width="100%" alt="Color divider" />
 
-**Translate complexity into simplicity. Build reliable tools for real humans.**
+### **用 AI 和代码，把想法变成真正可以使用的产品。**
+*Build something useful. Keep learning. Keep shipping.*
 
 </div>

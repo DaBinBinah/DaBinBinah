@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" role="img">
   <title>DaBin animated engineering terminal</title>
-  <desc>An animated terminal summarizing DaBin's focus in AI Engineering, Quant Tools, Data Pipelines, and Full-Stack Products.</desc>
+  <desc>An animated terminal summarizing DaBin's focus in Independent Development, AI Coding, Mini Programs, and IT Digital Transformation.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117" />
       <stop offset="100%" stop-color="#161b22" />
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3b82f6" />
-      <stop offset="35%" stop-color="#8b5cf6" />
+      <stop offset="0" stop-color="#38bdf8" />
+      <stop offset="35%" stop-color="#818cf8" />
       <stop offset="70%" stop-color="#ec4899" />
       <stop offset="100%" stop-color="#10b981" />
     </linearGradient>
@@ -22,7 +22,7 @@
     .text { font-family: "Cascadia Code", "Fira Code", SFMono-Regular, Consolas, Monaco, monospace; }
     .scan { animation: scan 7s linear infinite; }
     .cursor { animation: blink 1.05s steps(1) infinite; }
-    .orbit { transform-origin: 620px 218px; animation: spin 12s linear infinite; }
+    .orbit { transform-origin: 615px 218px; animation: spin 12s linear infinite; }
     .pulse { animation: pulse 2.4s ease-in-out infinite; }
     .bar-a { transform-origin: 96px 155px; animation: grow-a 4s ease-in-out infinite; }
     .bar-b { transform-origin: 96px 207px; animation: grow-b 4s .4s ease-in-out infinite; }
@@ -50,46 +50,46 @@
     <text x="46" y="95" class="text" font-size="18" fill="#34d399">dabin@github</text>
     <text x="216" y="95" class="text" font-size="18" fill="#94a3b8">:</text>
     <text x="228" y="95" class="text" font-size="18" fill="#38bdf8">~</text>
-    <text x="242" y="95" class="text" font-size="18" fill="#f1f5f9">$ ai-engine --status</text>
+    <text x="242" y="95" class="text" font-size="18" fill="#f1f5f9">$ dev-status --current</text>
 
     <text x="48" y="151" class="text" font-size="15" fill="#64748b">[01]</text>
-    <text x="96" y="151" class="text" font-size="16" fill="#f8fafc">AI Agent &amp; LLM Workflow</text>
+    <text x="96" y="151" class="text" font-size="16" fill="#f8fafc">DingJia · Investment Tool</text>
     <rect x="96" y="163" width="290" height="5" rx="2.5" fill="#1e293b" />
     <rect class="bar-a" x="96" y="163" width="290" height="5" rx="2.5" fill="#10b981" />
-    <text x="400" y="168" class="text" font-size="14" fill="#10b981">ready</text>
+    <text x="400" y="168" class="text" font-size="14" fill="#10b981">active</text>
 
     <text x="48" y="203" class="text" font-size="15" fill="#64748b">[02]</text>
-    <text x="96" y="203" class="text" font-size="16" fill="#f8fafc">Quant &amp; Dingjia Monitor</text>
+    <text x="96" y="203" class="text" font-size="16" fill="#f8fafc">同行有约 · Mini Program</text>
     <rect x="96" y="215" width="290" height="5" rx="2.5" fill="#1e293b" />
     <rect class="bar-b" x="96" y="215" width="290" height="5" rx="2.5" fill="#38bdf8" />
-    <text x="400" y="220" class="text" font-size="14" fill="#38bdf8">running</text>
+    <text x="400" y="220" class="text" font-size="14" fill="#38bdf8">building</text>
 
     <text x="48" y="255" class="text" font-size="15" fill="#64748b">[03]</text>
-    <text x="96" y="255" class="text" font-size="16" fill="#f8fafc">Data Engine &amp; Spider</text>
+    <text x="96" y="255" class="text" font-size="16" fill="#f8fafc">Enterprise IT &amp; ERP</text>
     <rect x="96" y="267" width="290" height="5" rx="2.5" fill="#1e293b" />
     <rect class="bar-c" x="96" y="267" width="290" height="5" rx="2.5" fill="#fbbf24" />
-    <text x="400" y="272" class="text pulse" font-size="14" fill="#fbbf24">active</text>
+    <text x="400" y="272" class="text pulse" font-size="14" fill="#fbbf24">ongoing</text>
 
     <text x="48" y="307" class="text" font-size="15" fill="#64748b">[04]</text>
-    <text x="96" y="307" class="text" font-size="16" fill="#f8fafc">Practical Tool Delivery</text>
+    <text x="96" y="307" class="text" font-size="16" fill="#f8fafc">AI Agent &amp; Automation</text>
     <rect x="96" y="319" width="290" height="5" rx="2.5" fill="#1e293b" />
-    <rect class="bar-d" x="96" y="319" width="290" height="5" rx="2.5" fill="#f43f5e" />
-    <text x="400" y="324" class="text" font-size="14" fill="#f43f5e">shipped</text>
+    <rect class="bar-d" x="96" y="319" width="290" height="5" rx="2.5" fill="#ec4899" />
+    <text x="400" y="324" class="text" font-size="14" fill="#ec4899">shipping</text>
 
     <g opacity=".92">
       <circle cx="615" cy="218" r="95" fill="none" stroke="#334155" stroke-width="1.5" stroke-dasharray="5 7" />
       <circle cx="615" cy="218" r="55" fill="none" stroke="#334155" stroke-width="1.5" />
       <path d="M580 218l20-35h30l20 35-20 35h-30z" fill="#0f172a" stroke="url(#accent)" stroke-width="2.5" />
-      <text x="615" y="213" text-anchor="middle" class="text" font-size="14" font-weight="bold" fill="#f8fafc">AI</text>
-      <text x="615" y="233" text-anchor="middle" class="text" font-size="13" fill="#94a3b8">→ LOGIC</text>
+      <text x="615" y="213" text-anchor="middle" class="text" font-size="13" font-weight="bold" fill="#f8fafc">IDEA</text>
+      <text x="615" y="233" text-anchor="middle" class="text" font-size="12" fill="#94a3b8">→ PRODUCT</text>
       <g class="orbit">
         <circle cx="615" cy="123" r="7" fill="#38bdf8" filter="url(#glow)" />
         <circle cx="615" cy="313" r="6" fill="#ec4899" />
       </g>
     </g>
 
-    <text x="48" y="372" class="text" font-size="16" fill="#c084fc">translate</text>
-    <text x="142" y="372" class="text" font-size="16" fill="#cbd5e1">(complex_ai) → simple_words</text>
-    <rect class="cursor" x="460" y="356" width="9" height="20" fill="#38bdf8" />
+    <text x="48" y="372" class="text" font-size="16" fill="#c084fc">turn_idea</text>
+    <text x="148" y="372" class="text" font-size="16" fill="#cbd5e1">(problem) → practical_product</text>
+    <rect class="cursor" x="488" y="356" width="9" height="20" fill="#38bdf8" />
   </g>
 </svg>
