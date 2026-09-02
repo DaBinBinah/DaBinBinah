@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180" role="img">
+    <title>DaBinBinah repository languages</title>
+    <desc>Top languages across repositories.</desc>
+    <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117" />
+      <stop offset="1" stop-color="#161b22" />
+    </linearGradient>
+  </defs>
+  <style>
+    .title { fill: #58a6ff; font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .label { fill: #8b949e; font: 400 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .value { fill: #f0f6fc; font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .frame { fill: url(#card-bg); stroke: #30363d; stroke-width: 1; }
+    .grid { stroke: #21262d; stroke-width: 1; stroke-dasharray: 3 3; }
+    .item { opacity: 0; animation: fade-in .5s ease-out forwards; }
+    @keyframes fade-in { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .item { opacity: 1 !important; animation: none !important; } }
+  </style>
+    <rect x="1" y="1" width="358" height="178" rx="10" class="frame"/>
+    <text x="22" y="32" class="title">Top Languages</text>
+    <g class="item" style="animation-delay:0ms"><text x="24" y="59" class="label">JavaScript</text><rect x="126" y="49" width="168" height="7" rx="3.5" fill="#30363d"/><rect x="126" y="49" width="70.7" height="7" rx="3.5" fill="#f1e05a"/><text x="334" y="59" text-anchor="end" class="label">42.1%</text></g><g class="item" style="animation-delay:120ms"><text x="24" y="83" class="label">Python</text><rect x="126" y="73" width="168" height="7" rx="3.5" fill="#30363d"/><rect x="126" y="73" width="59.6" height="7" rx="3.5" fill="#3572A5"/><text x="334" y="83" text-anchor="end" class="label">35.5%</text></g><g class="item" style="animation-delay:240ms"><text x="24" y="107" class="label">HTML/CSS</text><rect x="126" y="97" width="168" height="7" rx="3.5" fill="#30363d"/><rect x="126" y="97" width="21.1" height="7" rx="3.5" fill="#e34c26"/><text x="334" y="107" text-anchor="end" class="label">12.5%</text></g><g class="item" style="animation-delay:360ms"><text x="24" y="131" class="label">Shell / Bash</text><rect x="126" y="121" width="168" height="7" rx="3.5" fill="#30363d"/><rect x="126" y="121" width="10.5" height="7" rx="3.5" fill="#89e051"/><text x="334" y="131" text-anchor="end" class="label">6.2%</text></g><g class="item" style="animation-delay:480ms"><text x="24" y="155" class="label">Markdown</text><rect x="126" y="145" width="168" height="7" rx="3.5" fill="#30363d"/><rect x="126" y="145" width="6.2" height="7" rx="3.5" fill="#083fa1"/><text x="334" y="155" text-anchor="end" class="label">3.7%</text></g>
+  </svg>

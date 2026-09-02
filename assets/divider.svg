@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%" height="6" fill="none">
+  <defs>
+    <linearGradient id="divider-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0" />
+      <stop offset="15%" stop-color="#3b82f6" stop-opacity="0.8" />
+      <stop offset="35%" stop-color="#8b5cf6" stop-opacity="1" />
+      <stop offset="65%" stop-color="#ec4899" stop-opacity="1" />
+      <stop offset="85%" stop-color="#f59e0b" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect x="0" y="1.5" width="1200" height="3" rx="1.5" fill="url(#divider-grad)" filter="url(#glow)" />
+</svg>

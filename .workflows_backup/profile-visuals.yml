@@ -1,0 +1,42 @@
+name: Generate Profile Visuals
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/scripts/generate-profile-visuals.mjs'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate Visuals
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/generate-profile-visuals.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/ profile-3d-contrib/
+          if git diff --staged --quiet; then
+            echo "No visual changes to commit."
+          else
+            git commit -m "chore(visuals): auto update profile stats & 3D skyline [skip ci]"
+            git push
+          fi
