@@ -61,6 +61,7 @@ I have a solid background in enterprise IT, ERP systems, and business digital tr
 
 | 方向 / 项目 | 核心定位 | 技术与生态 | 亮点与说明 |
 | :--- | :--- | :---: | :--- |
+| 🌉 **[CloudBase Bridge](https://github.com/DaBinBinah/cloudbase-bridge)** | **Magpie / OpenCode 供应商插件**<br/>`“白嫖额度，变成生产力。”` | TypeScript · CloudBase | 把腾讯云开发「小程序成长计划」的免费 AI 额度，通过自部署的 aiProxy 云函数接入 Magpie / OpenCode，当作普通的 OpenAI 兼容供应商使用。已上架 npm：`opencode-cloudbase-bridge`。 |
 | 📈 **[盯价 DingJia](https://github.com/DaBinBinah/dingjia)** | **个人投资监控工具**<br/>`“你定价格，我来盯。”` | JavaScript · Web | 自己长期使用并持续维护的投资监控工具。支持 A 股、美股、ETF、持仓管理、目标价格、价格提醒、盈亏跟踪、分红记录与投资复盘。 |
 | 🧩 **同行有约** | **微信小程序 / 社区产品**<br/>`真实场景持续迭代` | 微信小程序 · CloudBase | 面向真实用户场景的私域社区与协作小程序。包含内容发布、日历日程、通知提醒、IM/群聊沟通、组织管理与权限后台，全程结合 AI 辅助高效开发与持续迭代。 |
 | 🎵 **答案音乐** | **基督教音乐 / 灵修产品**<br/>`Music · Faith · Sharing` | Web · 音频 | 面向基督徒的音乐与灵修分享项目，提供诗歌、敬拜音乐及相关内容，让信仰、音乐与日常生活产生连接。 |
@@ -91,6 +92,7 @@ I have a solid background in enterprise IT, ERP systems, and business digital tr
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- 🚀 发布 [DaBinBinah/cloudbase-bridge](https://github.com/DaBinBinah/cloudbase-bridge)：把 CloudBase「小程序成长计划」AI 额度接入 Magpie / OpenCode（npm: `opencode-cloudbase-bridge`）
 - 🚀 持续迭代 [DaBinBinah/dingjia](https://github.com/DaBinBinah/dingjia): 优化投资监控与多市场行情追踪
 - 🧩 推进「同行有约」微信小程序业务模块与 CloudBase 后台架构
 - 🛠️ 探索 Claude / Codex / DeepSeek 等 AI 编程工具与自动化脚本实践
